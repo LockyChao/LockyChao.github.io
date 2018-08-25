@@ -7,7 +7,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-![image]((https://github.com/Wenbin-Xu/Wenbin-Xu.github.io/tree/master/files/signature.jpg)
 
 {% include base_path %}
 
