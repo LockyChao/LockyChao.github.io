@@ -10,23 +10,20 @@ redirect_from:
 
 I am an undergradate student at Shanghai Jiao Tong University, expected to graduate in July, 2019. My major is Mechanical Engineering and minor is Computer Science. My research advisors are [Prof. Liang Gong](http://me.sjtu.edu.cn/teacher_directory1/2339.html), [Prof. Hao Ma](http://combustion.sjtu.edu.cn/people/?mid=493) and [Prof. Fei Qi](http://combustion.sjtu.edu.cn/people/?mid=1&version=en). 
 
-The world is filled of 
+The man I worship most is Leonardo Da Vinci. He was not only curious about everything, but also made a great research accomplishment with his unparalleled creativity. Even today, many scholars are still influenced by his ideas. However, life is always brutal. Even though the world is filled with so many unknowns, most poeple's life ends up only becoming another ordinary moment in the history of science, but I still wish I could always stay true to my determination, and hopefully, create something amazing and become another Da Vinci! :)
+
+Click here to see my up-to-date [CV](https://github.com/Wenbin-Xu/Wenbin-Xu.github.io/blob/master/files/wenbinxu_cv.pdf). If you are interested in working with me or knowing more about me, please feel free to [contact me](wbxu1997@gmail.com)
 
 # Research Interests
-
-* Urban computing&smart city
-* Spatial-temporal data mining
-* Intelligent transportation systems
-* Human mobility and travel behavior
+My research interests include but not limited to:
+* Clean Carbon-based Energy Conversions
+* Synthesis and Characterization of Functional Materials
+* Process Modeling, Simulation and Control 
 
 # News
 
-* September 9, 2018. I will make oral presentation in *The Sixth International Conference on Transportation and Logistics (6th T-LOG)*.
+* July.20, 2018. An oral presentation was given in [**The Third IEEE International Conference on Advanced Robotics and Mechatronics (3rd ICARM)**](http://www.ieee-arm.org/).
 
-* August 6, 2018. A paper was accepted in *The 6th International Conference on Transportation and Space-time Economics (TSTE 2018)*.
+* June.10, 2018. A paper was submitted to [**Industrial Robot: An International Journal**](https://www.emeraldinsight.com/loi/ir).
 
-* July 15, 2018. A paper was submitted to *Journal of Transport Geography*.
-
-* July 9, 2018. I start my research in National University of Singapore under the guidance of Prof. Lee Der-Horng.
-
-* May 16, 2018. A paper was accepted in *The Sixth International Conference on Transportation and Logistics (6th T-LOG)*.
+* May.15, 2018. A paper was accepted in [**The Third IEEE International Conference on Advanced Robotics and Mechatronics (3rd ICARM)**](http://www.ieee-arm.org/).
