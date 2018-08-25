@@ -22,7 +22,7 @@ Education
 
 Research Experience
 ======
-* 2018.1  - Present, Research Assistant, Combustion and Energy Research Group, Shanghai Jiao Tong University
+* 2018.1  - Present, Research Assistant, [Combustion and Energy Research Group](http://combustion.sjtu.edu.cn/home/?version=en), Shanghai Jiao Tong University
 * 2016.10 - 2018.6 , Research Assistant, Institute of Mechatronics, Shanghai Jiao Tong University
 * 2015.10 - 2016.10, Independent Researcher, School of Aeronautics and Astronautics, Shanghai Jiao Tong University
 
