@@ -4,16 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 * **W. B. Xu**, X. D. Li, W. D. Xu, L. Gong*, et al., "Human-robot Interaction Oriented Human-in-the-loop Real-time Motion Imitation on a Humanoid Tri-Co Robot," 3rd International Conference on Advanced Robotics and Mechatronics (ICARM), NUS, Singapore, 2018. **Oral Presentation** [PPT](https://Wenbin-Xu.github.io/files/p1_1.pdf) [PDF](https://Wenbin-Xu.github.io/files/p1_2.pdf)
 * **W. B. Xu**, X. D. Li, L. Gong*, Y. X. Huang, et al., "Natural Teaching for Humanoid Robot via Human-in-the-loop Scene-motion Cross-modal Perception," Industrial Robot. **Under Review** [PDF](https://Wenbin-Xu.github.io/files/p2.pdf)
 * **W. B. Xu**, C. J. Liu, C. Q. Zhou, Z. Y. Zhou, H. Mao*, "Scalable Production of Nitrogen-doped Carbons by Pyrolysis of Biomass-derived Carbons in NH3 Gas," 22nd International Symposium on Analytical and Applied Pyrolysis, Kyoto, Japan, 2018. **Conference Abstract** [PDF](https://Wenbin-Xu.github.io/files/p3.pdf) 
