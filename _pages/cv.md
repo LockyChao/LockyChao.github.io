@@ -1,14 +1,18 @@
+
 ---
 layout: archive
-title: "CV"
+title: "Wenbin Xu"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+![image]((https://github.com/Wenbin-Xu/Wenbin-Xu.github.io/tree/master/files/signature.jpg)
 
 {% include base_path %}
 
+curriculum Vitae
+======
 * [CV in PDF](https://github.com/Wenbin-Xu/Wenbin-Xu.github.io/tree/master/files/wenbinxu_cv.pdf)
 
 Education
@@ -17,7 +21,7 @@ Education
 
 
 
-Research experience
+Research Experience
 ======
 * 2018.1 - Present, Research Assistant, Combustion and Energy Research Group, Shanghai Jiao Tong University
 * 2016.10 - 2018.6, Research Assistant, Institute of Mechatronics, Shanghai Jiao Tong University
