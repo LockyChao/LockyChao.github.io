@@ -1,6 +1,5 @@
-
 ---
-layout: archive
+<!-- layout: archive -->
 title: "Wenbin Xu"
 permalink: /cv/
 author_profile: true
