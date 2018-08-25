@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="left">
-  <img src="https://github.com/Wenbin-Xu/Wenbin-Xu.github.io/blob/master/images/signature.jpg" alt="Photo" style="width: 100px;"/> 
+  <img src="https://github.com/Wenbin-Xu/Wenbin-Xu.github.io/blob/master/images/signature.jpg" alt="Photo" style="width: 500px;"/> 
 </p>
 {% include base_path %}
 Curriculum Vitae
