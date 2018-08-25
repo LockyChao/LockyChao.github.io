@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Wenbin Xu - Homepage"
 title_separator          : "-"
 name                     : &name "Wenbin Xu"
-description              : &description "B.Eng in Mechanical Engineering, Shanghai Jiao Tong University"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description ""
+url                      : https://Wenbin-Xu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Wenbin-Xu/Wenbin-Xu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
