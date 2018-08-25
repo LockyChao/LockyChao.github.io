@@ -19,11 +19,6 @@ Education
 
 Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
 * 2018.1 - Present, Research Assistant, Combustion and Energy Research Group, Shanghai Jiao Tong University
 * 2016.10 - 2018.6, Research Assistant, Institute of Mechatronics, Shanghai Jiao Tong University
 * 2015.10 - 2016.10, Independent Researcher, School of Aeronautics and Astronautics, Shanghai Jiao Tong University
