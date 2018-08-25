@@ -22,8 +22,8 @@ My research interests include but not limited to:
 
 # News
 
-* July.20, 2018. An oral presentation was given in [**The Third IEEE International Conference on Advanced Robotics and Mechatronics (3rd ICARM)**](http://www.ieee-arm.org/).
+* July.20, 2018. An oral presentation was given in the National University of Singapore (NUS), Singapore **([3rd ICARM](http://www.ieee-arm.org/))**
 
 * June.10, 2018. A paper was submitted to [**Industrial Robot: An International Journal**](https://www.emeraldinsight.com/loi/ir).
 
-* May.15, 2018. A paper was accepted in [**The Third IEEE International Conference on Advanced Robotics and Mechatronics (3rd ICARM)**](http://www.ieee-arm.org/).
+* May.15, 2018. A paper was accepted by **The Third IEEE International Conference on Advanced Robotics and Mechatronics ([3rd ICARM](http://www.ieee-arm.org/)).**
