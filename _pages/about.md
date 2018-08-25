@@ -11,7 +11,7 @@ I am an undergradate student at Shanghai Jiao Tong University, expected to gradu
 
 The man I worship most is Leonardo Da Vinci. He was not only curious about everything, but also made a great research accomplishment with his unparalleled creativity. Even today, many scholars are still influenced by his ideas. However, life is always brutal. Even though the world is filled with so many unknowns, most poeple's life ends up only becoming another ordinary moment in the history of science, but I still wish I could always stay true to my determination, and hopefully, create something amazing and become another Da Vinci! :)
 
-Click here to see my up-to-date [CV](https://github.com/Wenbin-Xu/Wenbin-Xu.github.io/blob/master/files/wenbinxu_cv.pdf). If you are interested in working with me or knowing more about me, please feel free to [contact me](wbxu1997@gmail.com).
+Click here to see my up-to-date [CV](https://github.com/Wenbin-Xu/Wenbin-Xu.github.io/blob/master/files/wenbinxu_cv.pdf). If you are interested in working with me or knowing more about me, please feel free to [contact me](https://wenbin-xu.github.io/contact/).
 
 # Research Interests
 My research interests include but not limited to:
