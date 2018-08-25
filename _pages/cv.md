@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
-![Image text](https://github.com/Wenbin-Xu/Wenbin-Xu.github.io/tree/master/files/signature.jpg)
-
+<p align="left">
+  <img src="https://github.com/Wenbin-Xu/Wenbin-Xu.github.io/tree/master/files/signature.jpg" alt="Photo" style="width: 100px;"/> 
+</p>
 {% include base_path %}
 Curriculum Vitae
 ======
