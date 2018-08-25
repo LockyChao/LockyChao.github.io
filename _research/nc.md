@@ -12,6 +12,6 @@ pyridinic, graphitic, and oxide of nitrogen) challenge its industrialization. He
   <p align="center">
   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/scalable.png?raw=true" alt="Synthesis Process" style="width: 700px;"/> 
 </p>
-  <p>Scalable Production</p>
+  <p  align="center">Fig.1 Scalable Production</p>
  </div>
 
