@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-curriculum Vitae
+Curriculum Vitae
 ======
 * [CV in PDF](https://github.com/Wenbin-Xu/Wenbin-Xu.github.io/tree/master/files/wenbinxu_cv.pdf)
 
