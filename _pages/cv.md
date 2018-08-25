@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/Wenbin-Xu/Wenbin-Xu.github.io/blob/master/images/signature.jpg" alt="Photo" style="width: 100px;"/> 
 </p>
 {% include base_path %}
