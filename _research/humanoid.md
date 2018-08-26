@@ -40,7 +40,7 @@ Click [here](https://wenbin-xu.github.io/research/) to come back.
   <p align="center">
   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_5.gif?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
 </p>
-  <p  align="center">Fig.5 Human Motion Imitation on the Humanoid</p>
+  <p  align="center">Fig.5 Human Motion Imitation on the Humanoid (The rotational directions of left arms are opposite...) </p>
  </div>
  
  
