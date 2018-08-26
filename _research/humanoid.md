@@ -28,6 +28,7 @@ Traditional teaching methods are faced up with multiple difficulties. For exampl
  
 With the proposed paradigm, experimentations are performed on the humanoid to verify its oustanding characteristics, including being real-time, high-accuracy, repeatability and dexterity. Fig.4 shows one of the experiments. Fig.5 displays the the human motion imitation on the humanoid.
 
+Click [here](https://wenbin-xu.github.io/research/) to come back.
  <div>
   <p align="center">
   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_4.jpg?raw=true" alt="Approaching an Inclined Flange" style="width: 500px;"/> 
