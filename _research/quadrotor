@@ -57,9 +57,37 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_6.png?raw=true" alt="Mixed Controller Based on State-to-state Algorithm" 
   style="width: 400px;"/> 
 </p>
-  <p  align="center">Fig.5 Mixed Controller Based on State-to-state Algorithm </p>
+  <p  align="center">Fig.6 Mixed Controller Based on State-to-state Algorithm </p>
  </div>
  
+ A series of experiments are performed on Airsim and Matlab to validate the reliablity and feasibility of the proposed methods. 
+ Fig.7-
 
+  <div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_7.png?raw=true" alt=" Circumventing Two Columns in a Sinusoidal Trajectory" 
+  style="width: 400px;"/> 
+</p>
+  <p  align="center">Fig.7 Circumventing Two Columns in a Sinusoidal Trajectory</p>
+ </div>
+ 
+  <div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_8.png?raw=true" alt="Passing Two Circles" 
+  style="width: 400px;"/> 
+</p>
+  <p  align="center">Fig.8 Quadrotor Circumventing Two Columns in a Sinusoidal Trajectory</p>
+ </div>
+ 
+ 
+   <div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_8.png?raw=true" alt="Passing Two Circles" 
+  style="width: 400px;"/> 
+</p>
+  <p  align="center">Fig.8 Quadrotor Circumventing Two Columns in a Sinusoidal Trajectory</p>
+ </div>
+ 
+ 
 ##Reference
 [1] Mueller, M. W, M. Hehn, and R. D'Andrea. "A computationally efficient algorithm for state-to-state quadrocopter trajectory generation and feasibility verification." Ieee/rsj International Conference on Intelligent Robots and Systems IEEE, 2013:3480-3486.
