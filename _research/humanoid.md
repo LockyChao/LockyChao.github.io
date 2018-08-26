@@ -1,13 +1,45 @@
 ---
-title: "code1"
+title: "Natural Teaching on a Life-sized Humanoid"
 collection: research
 permalink: /research/humanoid
-venue: "ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS 2018)"
-date: 2018-4-14
-citation: 'Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>.'
 ---
+Traditional teaching methods are faced up with multiple difficulties. First, an expert is necessary for demonstration and the effect of teaching heavly depends on his knowledge. Second, conventional teaching always neglect the transmission of semantic information and the relation between different sensory information. Hence a novel natural teaching paradigm based on scene-motion cross-modal perception is proposed. Natural teaching is actually a branch of human-robot interaction (HRI) technology, representing a kind of teaching paradigm which is user-friendly and coordinates human and robot in scene comprehension. Aimed at completing tasks with specified human semantic information, natural teaching is an end-to-end and highly efficient method for interaction with surroundings or performing complicated movements. Fig.1 shows the setup of the life-sized humanoid. Fig.2 and Fig.3 presents the scene-motion perception framework and the control scheme, respectively.
 
-## Abstract
-Poaching continues to be a significant threat to the conservation of wildlife and the whole ecosystem. Estimating and predicting where the poachers have committed or would commit crimes is essential to designing a more effective allocation of patrolling resources. The real-world data in this domain is often sparse, noisy and incomplete, consisting of a small number of positive data (poaching signs), a large number of negative data with label uncertainty, and an even larger number of unlabeled data. Fortunately, domain experts such as the rangers can provide complementary information about the poaching activity patterns. However, such kind of prior knowledge is rarely used in previous approaches.
+ <div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/constructure.png?raw=true" alt="Setup of the Life-sized Humanoid" style="width: 500px;"/> 
+</p>
+  <p  align="center">Fig.1 Setup of the Life-sized Humanoid</p>
+ </div>
 
-In this paper, we contribute solutions to the predictive analysis of poaching pattern based on very limited real-world data and human knowledge. We propose to elicit quantitative information from domain experts through clustering the data points based on geographical features and asking domain experts to provide an estimation for each cluster. In addition, we propose algorithms that exploits qualitative and quantitative information provided by the domain experts' to augment the dataset and improve the learning. In collaboration with World Wild Fund for Nature, we show that incorporating human knowledge leads to better predictions in a conservation area in Northeastern China where the charismatic species is Siberian Tiger. The results show the importance of exploiting human knowledge when learning from limited real-world data.
+ <div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/crossmodal.png?raw=true" alt="Scene-motion Perception Framework" style="width: 600px;"/> 
+</p>
+  <p  align="center">Fig.2 Scene-motion Perception Framework</p>
+ </div>
+
+ <div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/flow_diagram.png?raw=true" alt="Control Scheme of Motion Imitation" style="width: 600px;"/> 
+</p>
+  <p  align="center">Fig.3 Control Scheme of Motion Imitation</p>
+ </div>
+ 
+With the proposed paradigm, experimentations are performed on the humanoid to verify its oustanding characteristics, including being real-time, high-accuracy, repeatability and dexterity. Fig.4 shows one of the experiments. Fig.5 displays the the human motion imitation on the humanoid.
+
+ <div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_4.png?raw=true" alt="Approaching an Inclined Flange" style="width: 500px;"/> 
+</p>
+  <p  align="center">Fig.4 Approaching an Inclined Flange</p>
+ </div>
+ 
+  <div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_5.gif?raw=true" alt="Human Motion Imitation on the Humanoid" style="width: 600px;"/> 
+</p>
+  <p  align="center">Fig.5 Human Motion Imitation on the Humanoid</p>
+ </div>
+ 
+ 
