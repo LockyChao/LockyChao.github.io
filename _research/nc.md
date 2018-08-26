@@ -12,21 +12,21 @@ Fig. 1 shows our facile and novel method of scalable production of NCs. X-ray Ph
 
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/scalable.png?raw=true" alt="Scalable Production" style="width: 700px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r3_1.png?raw=true" alt="Scalable Production" style="width: 700px;"/> 
 </p>
   <p  align="center">Fig.1 Scalable Production</p>
  </div>
 
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/xps.png?raw=true" alt="XPS of N1s" style="width: 400px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r3_2.png?raw=true" alt="XPS of N1s" style="width: 400px;"/> 
 </p>
   <p  align="center">Fig.2 XPS of N1s</p>
  </div>
 
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/NC.png?raw=true" alt="NCs Pellets and Micrographs" style="width: 400px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r3_3.png?raw=true" alt="NCs Pellets and Micrographs" style="width: 400px;"/> 
 </p>
   <p  align="center">Fig.3 NCs Pellets and Micrographs</p>
  </div>
