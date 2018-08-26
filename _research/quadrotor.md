@@ -29,7 +29,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
  <div>
   <p align="center">
   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_3.png?raw=true" alt="Geometric tracking controller with Head Direction" 
-  style="width: 400px;"/> 
+  style="width: 500px;"/> 
 </p>
   <p  align="center">Fig.3 Geometric tracking controller with Head Direction </p>
  </div>
@@ -38,7 +38,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
  <div>
   <p align="center">
   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_4.png?raw=true" alt="Attitude Controller with Height" 
-  style="width: 400px;"/> 
+  style="width: 500px;"/> 
 </p>
   <p  align="center">Fig.4 Attitude Controller with Height </p>
  </div>
@@ -46,7 +46,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
   <div>
   <p align="center">
   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_5.png?raw=true" alt="Attitude Controller with Thrust" 
-  style="width: 400px;"/> 
+  style="width: 500px;"/> 
 </p>
   <p  align="center">Fig.5 Attitude Controller with Thrust </p>
  </div>
@@ -55,7 +55,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
   <div>
   <p align="center">
   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_6.png?raw=true" alt="Mixed Controller Based on State-to-state Algorithm" 
-  style="width: 400px;"/> 
+  style="width: 600px;"/> 
 </p>
   <p  align="center">Fig.6 Mixed Controller Based on State-to-state Algorithm </p>
  </div>
@@ -66,7 +66,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
   <div>
   <p align="center">
   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_7.gif?raw=true" alt=" Circumventing Two Columns in a Sinusoidal Trajectory" 
-  style="width: 400px;"/> 
+  style="width: 600px;"/> 
 </p>
   <p  align="center">Fig.7 Circumventing Two Columns in a Sinusoidal Trajectory</p>
  </div>
@@ -74,7 +74,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
   <div>
   <p align="center">
   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_8.gif?raw=true" alt="Passing Two Circles" 
-  style="width: 400px;"/> 
+  style="width: 600px;"/> 
 </p>
   <p  align="center">Fig.8 Quadrotor Passing Two Circles</p>
  </div>
