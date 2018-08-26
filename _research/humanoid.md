@@ -28,7 +28,6 @@ Traditional teaching methods are faced up with multiple difficulties. For exampl
  
 With the proposed paradigm, experimentation was performed on the humanoid to verify its oustanding characteristics, including being real-time, high-accuracy, repeatability and dexterity. Fig.4 shows one of the experiments. Fig.5 displays the the human motion imitation on the humanoid.
 
-Click [here](https://wenbin-xu.github.io/research/) to come back.
  <div>
   <p align="center">
   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_4.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 500px;"/> 
@@ -43,4 +42,5 @@ Click [here](https://wenbin-xu.github.io/research/) to come back.
   <p  align="center">Fig.5 Human Motion Imitation on the Humanoid (The rotational directions of left arms are opposite...) </p>
  </div>
  
- 
+ Click [here](https://wenbin-xu.github.io/research/) to come back.
+
