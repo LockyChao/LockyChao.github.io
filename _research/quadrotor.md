@@ -80,16 +80,19 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
  </div>
  
  
-   <div>
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_9.gif?raw=true" alt="passing a window" 
-  style="width: 400px;"/> 
-   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_10.gif?raw=true" alt="passing a window" 
-  style="width: 400px;"/> 
+ <div>
+ <table>
+   <tr>
+       <td><img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_9.gif?raw=true"  style="width: 350px;" ></td>
+      <td><img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_10.gif?raw=true"  style="width: 350px;" ></td>  
+  </tr>
+</table>
   <p  align="center">Fig.9 Quadrotor Passing a Window by Tilting</p>
  </div>
  
-    <div>
-  <p align="center">
+
+<div>
+ <p align="center">
   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_8.png?raw=true" alt="Passing Two Circles" 
   style="width: 400px;"/> 
 </p>
