@@ -30,7 +30,7 @@ With the proposed paradigm, experimentations are performed on the humanoid to ve
 
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_4.png?raw=true" alt="Approaching an Inclined Flange" style="width: 500px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_4.jpg?raw=true" alt="Approaching an Inclined Flange" style="width: 500px;"/> 
 </p>
   <p  align="center">Fig.4 Approaching an Inclined Flange</p>
  </div>
