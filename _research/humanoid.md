@@ -7,21 +7,21 @@ Traditional teaching methods are faced up with multiple difficulties. First, an 
 
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/constructure.png?raw=true" alt="Setup of the Life-sized Humanoid" style="width: 500px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_1.png?raw=true" alt="Setup of the Life-sized Humanoid" style="width: 400px;"/> 
 </p>
   <p  align="center">Fig.1 Setup of the Life-sized Humanoid</p>
  </div>
 
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/crossmodal.png?raw=true" alt="Scene-motion Perception Framework" style="width: 600px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_2.png?raw=true" alt="Scene-motion Perception Framework" style="width: 500px;"/> 
 </p>
   <p  align="center">Fig.2 Scene-motion Perception Framework</p>
  </div>
 
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/flow_diagram.png?raw=true" alt="Control Scheme of Motion Imitation" style="width: 600px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/flow_diagram.png?raw=true" alt="Control Scheme of Motion Imitation" style="width: 500px;"/> 
 </p>
   <p  align="center">Fig.3 Control Scheme of Motion Imitation</p>
  </div>
