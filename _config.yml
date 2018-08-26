@@ -248,9 +248,7 @@ defaults:
       type: research
     values:
       layout: single
-      author_profile: true
-      comments: true
-      
+      author_profile: true      
 # Sass/SCSS
 sass:
   sass_dir: _sass
