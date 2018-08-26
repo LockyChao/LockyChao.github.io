@@ -1,14 +1,14 @@
 # main links links
 main:
+  - title: "CV/Bio"
+    url: /cv/
+    
   - title: "Research"
     url: /research/
     
   - title: "Publications"
     url: /publications/
-    
-  - title: "CV/Bio"
-    url: /cv/
-    
+
   - title: "Honor & Awards"
     url: /honor/
     
