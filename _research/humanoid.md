@@ -1,5 +1,5 @@
 ---
-title: "Exploiting Real-World Data and Human Knowledge for Predicting Wildlife Poaching"
+title: "code1"
 collection: research
 permalink: /research/humanoid
 venue: "ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS 2018)"
