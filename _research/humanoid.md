@@ -7,9 +7,9 @@ Traditional teaching methods are faced up with multiple difficulties. For exampl
 
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_1.png?raw=true" alt="Setup of the Life-sized Humanoid" style="width: 600px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_1.png?raw=true"  style="width: 600px;"/> 
 </p>
-  <p  align="center">Fig.1 Setup of the Life-sized Humanoid</p>
+  <p  align="center">Fig.1 Setup of the Life-sized Humanoid. Real Robot (left) and 3D Model (Right)</p>
  </div>
 
  <div>
