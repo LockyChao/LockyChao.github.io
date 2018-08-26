@@ -11,7 +11,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
 
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_1.png?raw=true" alt="The Whole Framework" 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_1.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " 
   style="width: 700px;"/> 
 </p>
   <p  align="center">Fig.1 The Whole Framework</p>
@@ -19,7 +19,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
 
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_2.png?raw=true" alt="Dynamic Model of Quadrotor" 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_2.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " 
   style="width: 600px;"/> 
 </p>
   <p  align="center">Fig.2 Dynamic Model of Quadrotor</p>
@@ -28,7 +28,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
  
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_3.png?raw=true" alt="Geometric tracking controller with Head Direction" 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_3.png?raw=true"alt="Sorry, the file was not found (,#ﾟДﾟ)  " 
   style="width: 500px;"/> 
 </p>
   <p  align="center">Fig.3 Geometric tracking controller with Head Direction </p>
@@ -37,7 +37,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
  
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_4.png?raw=true" alt="Attitude Controller with Height" 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_4.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " 
   style="width: 500px;"/> 
 </p>
   <p  align="center">Fig.4 Attitude Controller with Height </p>
@@ -45,7 +45,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
 
   <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_5.png?raw=true" alt="Attitude Controller with Thrust" 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_5.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " 
   style="width: 500px;"/> 
 </p>
   <p  align="center">Fig.5 Attitude Controller with Thrust </p>
@@ -54,7 +54,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
 
   <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_6.png?raw=true" alt="Mixed Controller Based on State-to-state Algorithm" 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_6.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " 
   style="width: 600px;"/> 
 </p>
   <p  align="center">Fig.6 Mixed Controller Based on State-to-state Algorithm </p>
@@ -65,7 +65,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
 
   <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_7.gif?raw=true" alt=" Circumventing Two Columns in a Sinusoidal Trajectory" 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_7.gif?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " 
   style="width: 600px;"/> 
 </p>
   <p  align="center">Fig.7 Circumventing Two Columns in a Sinusoidal Trajectory</p>
@@ -73,7 +73,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
  
   <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_8.gif?raw=true" alt="Passing Two Circles" 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_8.gif?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  "  
   style="width: 600px;"/> 
 </p>
   <p  align="center">Fig.8 Quadrotor Passing Two Circles</p>
@@ -83,8 +83,8 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
  <div>
  <table>
    <tr>
-       <td><img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_9.gif?raw=true"  style="width: 350px;" ></td>
-      <td><img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_10.gif?raw=true"  style="width: 350px;" ></td>  
+       <td><img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_9.gif?raw=true"  alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 350px;" ></td>
+      <td><img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_10.gif?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  "  style="width: 350px;" ></td>  
   </tr>
 </table>
   <p  align="center">Fig.9 Quadrotor Passing a Window by Tilting</p>
@@ -93,8 +93,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
 
 <div>
  <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_11.gif?raw=true" alt="Fully Actuated Hexarotor" 
-  style="width: 600px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_11.gif?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  "   style="width: 600px;"/> 
 </p>
   <p  align="center">Fig.10 Fully Actuated Hexarotor </p>
  </div>
@@ -103,7 +102,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
  
  <div>
  <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_12.png?raw=true" 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_12.png?raw=true"  alt="Sorry, the file was not found (,#ﾟДﾟ)  " 
   style="width: 600px;"/> 
 </p>
   <p  align="center">Fig.11 The Control Scheme between PX4 and Raspberry Pi 2B </p>
@@ -112,7 +111,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
   
  <div>
  <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_13.gif?raw=true" 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_13.gif?raw=true"  alt="Sorry, the file was not found (,#ﾟДﾟ)  " 
   style="width: 600px;"/> 
 </p>
   <p  align="center">Fig.12 Automatically Following the Manipulator </p>
