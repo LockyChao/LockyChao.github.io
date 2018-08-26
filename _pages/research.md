@@ -8,4 +8,4 @@ author_profile: true
 
 * [Natural Teaching on a Life-sized Humanoid](https://Wenbin-Xu.github.io/research/humanoid)
 
-* Control and Trajectory Generation of Quadrotor
+* [Control and Trajectory Generation of Quadrotor](https://Wenbin-Xu.github.io/research/quadrotor)
