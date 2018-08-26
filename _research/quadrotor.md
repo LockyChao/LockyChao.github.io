@@ -93,12 +93,12 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
 
 <div>
  <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_8.png?raw=true" alt="Passing Two Circles" 
-  style="width: 400px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_11.gif?raw=true" alt="Fully Actuated Hexarotor" 
+  style="width: 600px;"/> 
 </p>
-  <p  align="center">Fig.8 Quadrotor Circumventing Two Columns in a Sinusoidal Trajectory</p>
+  <p  align="center">Fig.10 Fully Actuated Hexarotor </p>
  </div>
  
  
-##Reference
+##Reference  
 [1] Mueller, M. W, M. Hehn, and R. D'Andrea. "A computationally efficient algorithm for state-to-state quadrocopter trajectory generation and feasibility verification." Ieee/rsj International Conference on Intelligent Robots and Systems IEEE, 2013:3480-3486.
