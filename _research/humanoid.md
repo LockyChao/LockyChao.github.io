@@ -3,7 +3,7 @@ title: "Natural Teaching on a Life-sized Humanoid"
 collection: research
 permalink: /research/humanoid
 ---
-Traditional teaching methods are faced up with multiple difficulties. First, an expert is necessary for demonstration and the effect of teaching heavly depends on his knowledge. Second, conventional teaching always neglect the transmission of semantic information and the relation between different sensory information. Hence a novel natural teaching paradigm based on scene-motion cross-modal perception is proposed. Natural teaching is actually a branch of human-robot interaction (HRI) technology, representing a kind of teaching paradigm which is user-friendly and coordinates human and robot in scene comprehension. Aimed at completing tasks with specified human semantic information, natural teaching is an end-to-end and highly efficient method for interaction with surroundings or performing complicated movements. Fig.1 shows the setup of the life-sized humanoid. Fig.2 and Fig.3 presents the scene-motion perception framework and the control scheme, respectively.
+Traditional teaching methods are faced up with multiple difficulties. For example, they always neglect the transmission of semantic information and the relation between different sensory information. Hence a novel natural teaching paradigm based on scene-motion cross-modal perception is proposed. Natural teaching is actually a branch of human-robot interaction (HRI) technology, representing a kind of teaching paradigm which is user-friendly and coordinates human and robot in scene comprehension. Fig.1 shows the setup of the life-sized humanoid. Fig.2 and Fig.3 presents the scene-motion perception framework and the control scheme, respectively.
 
  <div>
   <p align="center">
