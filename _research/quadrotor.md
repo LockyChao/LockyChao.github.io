@@ -7,7 +7,7 @@ This project is related to the trajectory generation and control of a quadrotor.
 For the part of trajectory generation, we implemented B-spline interpolation algorithm with maximum velocity at each point for path tracking.
 We also improved another state-to-state algorithm [1] for quadrotor trajectory generation between two points. For the part of control, we designed
 multiple controllers for different functions. Fig. 1 shows the whole framework, which is also a combination of trajectory generation and control.
-Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are the designed flight controller for different functions.
+Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are the designed flight controllers for different functions.
 
  <div>
   <p align="center">
@@ -61,7 +61,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
  </div>
  
  A series of experiments are performed on Airsim and Matlab to validate the reliablity and feasibility of the proposed methods. 
- Fig.7-
+ Fig.7-Fig.10 displays the experimental results.
 
   <div>
   <p align="center">
@@ -99,6 +99,24 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
   <p  align="center">Fig.10 Fully Actuated Hexarotor </p>
  </div>
  
+ Besides, we also performed experiments on a real flight controller system based on an open-sourced flight controller PX4. The control framework is shown in Fig.11. In Fig.12, the quadrotor followed the manipulator automatically through his GPS.
  
-##Reference  
+ <div>
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_12.png?raw=true" 
+  style="width: 600px;"/> 
+</p>
+  <p  align="center">Fig.11 The Control Scheme between PX4 and Raspberry Pi 2B </p>
+ </div>
+ 
+  
+ <div>
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_13.gif?raw=true" 
+  style="width: 600px;"/> 
+</p>
+  <p  align="center">Fig.12 Automatically Following the Manipulator </p>
+ </div>
+ 
+## Reference 
 [1] Mueller, M. W, M. Hehn, and R. D'Andrea. "A computationally efficient algorithm for state-to-state quadrocopter trajectory generation and feasibility verification." Ieee/rsj International Conference on Intelligent Robots and Systems IEEE, 2013:3480-3486.
