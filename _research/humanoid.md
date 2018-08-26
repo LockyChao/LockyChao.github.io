@@ -7,21 +7,21 @@ Traditional teaching methods are faced up with multiple difficulties. For exampl
 
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_1.png?raw=true"  style="width: 600px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_1.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
 </p>
   <p  align="center">Fig.1 Setup of the Life-sized Humanoid. Real Robot (left) and 3D Model (Right)</p>
  </div>
 
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_2.png?raw=true" alt="Scene-motion Perception Framework" style="width: 550px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_2.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 550px;"/> 
 </p>
   <p  align="center">Fig.2 Scene-motion Perception Framework</p>
  </div>
 
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/flow_diagram.png?raw=true" alt="Control Scheme of Motion Imitation" style="width: 650px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/flow_diagram.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 650px;"/> 
 </p>
   <p  align="center">Fig.3 Control Scheme of Motion Imitation</p>
  </div>
@@ -31,14 +31,14 @@ With the proposed paradigm, experimentation was performed on the humanoid to ver
 Click [here](https://wenbin-xu.github.io/research/) to come back.
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_4.jpg?raw=true" alt="Approaching an Inclined Flange" style="width: 500px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_4.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 500px;"/> 
 </p>
   <p  align="center">Fig.4 Approaching an Inclined Flange</p>
  </div>
  
   <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_5.gif?raw=true" alt="Human Motion Imitation on the Humanoid" style="width: 600px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r2_5.gif?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
 </p>
   <p  align="center">Fig.5 Human Motion Imitation on the Humanoid</p>
  </div>
