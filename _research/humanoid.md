@@ -26,7 +26,7 @@ Traditional teaching methods are faced up with multiple difficulties. For exampl
   <p  align="center">Fig.3 Control Scheme of Motion Imitation</p>
  </div>
  
-With the proposed paradigm, experimentations are performed on the humanoid to verify its oustanding characteristics, including being real-time, high-accuracy, repeatability and dexterity. Fig.4 shows one of the experiments. Fig.5 displays the the human motion imitation on the humanoid.
+With the proposed paradigm, experimentation was performed on the humanoid to verify its oustanding characteristics, including being real-time, high-accuracy, repeatability and dexterity. Fig.4 shows one of the experiments. Fig.5 displays the the human motion imitation on the humanoid.
 
 Click [here](https://wenbin-xu.github.io/research/) to come back.
  <div>
