@@ -65,7 +65,7 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
 
   <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_7.png?raw=true" alt=" Circumventing Two Columns in a Sinusoidal Trajectory" 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_7.gif?raw=true" alt=" Circumventing Two Columns in a Sinusoidal Trajectory" 
   style="width: 400px;"/> 
 </p>
   <p  align="center">Fig.7 Circumventing Two Columns in a Sinusoidal Trajectory</p>
@@ -73,14 +73,22 @@ Fig.2 presents the dynamic model of a quadrotor mathematically. Fig.3-Fig.6 are 
  
   <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_8.png?raw=true" alt="Passing Two Circles" 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_8.gif?raw=true" alt="Passing Two Circles" 
   style="width: 400px;"/> 
 </p>
-  <p  align="center">Fig.8 Quadrotor Circumventing Two Columns in a Sinusoidal Trajectory</p>
+  <p  align="center">Fig.8 Quadrotor Passing Two Circles</p>
  </div>
  
  
    <div>
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_9.gif?raw=true" alt="passing a window" 
+  style="width: 400px;"/> 
+   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_10.gif?raw=true" alt="passing a window" 
+  style="width: 400px;"/> 
+  <p  align="center">Fig.9 Quadrotor Passing a Window by Tilting</p>
+ </div>
+ 
+    <div>
   <p align="center">
   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/r1_8.png?raw=true" alt="Passing Two Circles" 
   style="width: 400px;"/> 
