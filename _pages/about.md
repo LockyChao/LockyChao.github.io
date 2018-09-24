@@ -28,5 +28,4 @@ My research interests include but not limited to:
 
 * May.15, 2018. A paper was accepted by *The Third IEEE International Conference on Advanced Robotics and Mechatronics ([3rd ICARM](http://www.ieee-arm.org/)).*
 
-# Visitors
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=nseavQHNri_OdvUliAiYdODGOCLGv2lP-lYmivquSuo&cl=ffffff&w=a"></script>
+
