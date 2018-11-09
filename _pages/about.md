@@ -18,6 +18,7 @@ My research interests include but not limited to:
 * Clean Energy Conversions
 * Synthesis and Characterization of Functional Materials
 * Process Modeling, Simulation and Control 
+* Manufacturing
 * Combustion
 
 # News
