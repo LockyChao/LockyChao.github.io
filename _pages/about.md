@@ -16,10 +16,10 @@ Click here to see my up-to-date [CV](https://Wenbin-Xu.github.io/files/cv_wenbin
 # Research Interests
 My research interests include but not limited to:
 * Clean Energy Conversions
-* Synthesis and Characterization of Functional Materials
+* Synthesis and Characterization of Functional Materials, Especially Energy Materials
 * Process Modeling, Simulation and Control 
 * Manufacturing
-* Combustion
+* Combustion Reaction Kinetics
 
 Last Update Date: 11/26/2018
 
