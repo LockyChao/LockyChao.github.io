@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an undergradate student at Shanghai Jiao Tong University, expected to graduate in July, 2019. My major is Mechanical Engineering and minor is Computer Science. My research advisors are [Prof. Liang Gong](http://me.sjtu.edu.cn/teacher_directory1/2339.html), [Prof. Hao Ma](http://combustion.sjtu.edu.cn/people/?mid=493&version=en) and [Prof. Fei Qi](http://combustion.sjtu.edu.cn/people/?mid=1&version=en). 
+I am an undergradate student at Shanghai Jiao Tong University, expected to graduate in July, 2019. My major is Mechanical Engineering and minor is Computer Science. My research advisors are [Prof. Liang GONG](http://me.sjtu.edu.cn/teacher_directory1/2339.html), [Prof. Hao MA](http://combustion.sjtu.edu.cn/people/?mid=493&version=en) and [Prof. Fei QI](http://combustion.sjtu.edu.cn/people/?mid=1&version=en). 
 
 The man I worship most is Leonardo Da Vinci. He was not only curious about everything, but also made a great research accomplishment with his unparalleled creativity. Even today, many scholars are still influenced by his ideas. However, life is always brutal. Most people's life ends up only becoming another ordinary moment in the history of science, but I still wish I could always stay true to my determination, and hopefully, create something amazing and become another Da Vinci! :)
 
