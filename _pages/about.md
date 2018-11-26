@@ -21,15 +21,6 @@ My research interests include but not limited to:
 * Manufacturing
 * Combustion
 
-# News
-
-* July.20, 2018. An oral presentation was given in the National University of Singapore (NUS), Singapore *([3rd ICARM)](http://www.ieee-arm.org/)*.
-
-* June.11, 2018. A poster is presented at *22nd International Symposium on Analytical and Applied Pyrolysis [(Pyro2018)](http://cec.ach.nitech.ac.jp/pyro2018/)*, Kyoto, Japan.
-* June.1, 2018. A paper was submitted to [*Industrial Robot: An International Journal*](https://www.emeraldinsight.com/loi/ir).
-
-* May.15, 2018. A paper was accepted by *The Third IEEE International Conference on Advanced Robotics and Mechatronics ([3rd ICARM](http://www.ieee-arm.org/)).*
-
 Last Update Date: 11/26/2018
 
 
