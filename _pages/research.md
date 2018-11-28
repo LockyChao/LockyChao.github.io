@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Please read my [Research Summary](https://Wenbin-Xu.github.io/files/research_summary.pdf) first. (Last Updated:11/28/2018)
+Please read my [Research Summary](https://Wenbin-Xu.github.io/files/Research_Summary.pdf) first. (Last Updated:11/28/2018)
 
 The following is a brief introduction for my previous research experiences.
 
