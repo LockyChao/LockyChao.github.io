@@ -19,7 +19,7 @@ My research interests include but not limited to:
 * Synthesis and Characterization of Functional Materials, Especially Energy Materials
 * Process Modeling, Simulation and Control 
 * Manufacturing
-* Combustion Reaction Kinetics
+* Combustion Kinetics
 
 Last Update Date: 11/28/2018
 
