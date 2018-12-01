@@ -17,7 +17,7 @@ Curriculum Vitae
 
 Education
 ======
-* B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University, 2019
+* Bachelor of Science in Mechanical Engineering, Shanghai Jiao Tong University, 2019
 
 
 
