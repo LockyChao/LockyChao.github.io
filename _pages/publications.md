@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-\[1\] * C. Q. Zhou, W. B. Xu, C. J. Liu, X. M. Chen, Z. Y. Zhou, H. Mao*, F. Qi, N-doped Carbon-Silica Composite Confined Pd Nanoparticles for Abatement of Methane Emission from Automobiles, Topics in Catalysis 2018, 10.1007/s11244-018-1099-7 [link]( http://link.springer.com/article/10.1007/s11244-018-1099-7)
+\[1\] C. Q. Zhou, **W. B. Xu**, C. J. Liu, X. M. Chen, Z. Y. Zhou, H. Mao*, F. Qi, N-doped Carbon-Silica Composite Confined Pd Nanoparticles for Abatement of Methane Emission from Automobiles, Topics in Catalysis 2018, 10.1007/s11244-018-1099-7 [link]( http://link.springer.com/article/10.1007/s11244-018-1099-7)
 
 \[2\] **W. B. Xu**, C. J. Liu, C. Q. Zhou, Z. Y. Zhou, H. Mao*, "Scalable Production of Nitrogen-doped Carbons by Pyrolysis of Biomass-derived Carbons in NH3 Gas," 22nd International Symposium on Analytical and Applied Pyrolysis, Kyoto, Japan, 2018. **Conference Abstract** [PDF](https://Wenbin-Xu.github.io/files/Conference_Abstract_Pyro2018.pdf) 
 
