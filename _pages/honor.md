@@ -23,7 +23,7 @@ author_profile: true
 * First Prize of Robomaster 2017 Robotics Competition in Eastern Division (**Top 3/29**), 07/2017
 <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/RM2017.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 250px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/RM2017.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
 </p>
  <!-- <p  align="center">Fig.2 Scene-motion Perception Framework</p>-->
  </div>
@@ -60,7 +60,7 @@ author_profile: true
  
 <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/Service.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/Service.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 500px;"/> 
 </p>
  <!-- <p  align="center">Fig.2 Scene-motion Perception Framework</p>-->
  </div>
