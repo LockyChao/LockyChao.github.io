@@ -42,8 +42,22 @@ author_profile: true
 
 # Leadership
 * **Chairman** of *A+ Club* (Consists of Top 1% of 1200 Students), 03/2017 – 05/2018
+<div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/club.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 400px;"/> 
+</p>
+ <!-- <p  align="center">Fig.2 Scene-motion Perception Framework</p>-->
+ </div>
+ 
 * **Minister** of *Student Association of Science & Technology*, 06/2016 – 11/2017
 
+<div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/kexie.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 400px;"/> 
+</p>
+ <!-- <p  align="center">Fig.2 Scene-motion Perception Framework</p>-->
+ </div>
+ 
 <div>
   <p align="center">
   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/Service.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
