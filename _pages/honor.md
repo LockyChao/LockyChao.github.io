@@ -18,7 +18,5 @@ author_profile: true
 * Merit Student of Shanghai Jiao Tong University (**Top 10%**), 2016.10
 * Outstanding Student in School of Mechanical Engineering (**Top 10%**, ***Twice***), 2016, 2017
 
-title: "Awards & Honors"
-
 
 
