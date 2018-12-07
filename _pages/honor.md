@@ -6,7 +6,7 @@ author_profile: true
 ---
 * China National Scholarship (**Top 1%**, ***Three Times***, 8,000 CNY Each Year)	2016, 2017, 2018
 <div>
-  <p align="center">
+  <p align="left">
   <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/National_Scholarship.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 450px;"/> 
 </p>
  <!-- <p  align="center">Fig.2 Scene-motion Perception Framework</p>-->
