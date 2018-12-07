@@ -14,21 +14,21 @@ I occasionally take snapshots of beautiful scenes at SJTU.
 
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/morning_rooftop.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/morning_rooftop.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 500px;"/> 
 </p>
   <!--<p  align="center">Fig.1 Setup of the Life-sized Humanoid. Real Robot (left) and 3D Model (Right)</p>-->
  </div>
  
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/evening_lawn.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/evening_lawn.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 500px;"/> 
 </p>
   <!--<p  align="center">Fig.1 Setup of the Life-sized Humanoid. Real Robot (left) and 3D Model (Right)</p>-->
  </div>
  
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/evening_lake.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/evening_lake.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 500px;"/> 
 </p>
   <!--<p  align="center">Fig.1 Setup of the Life-sized Humanoid. Real Robot (left) and 3D Model (Right)</p>-->
  </div>
