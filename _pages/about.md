@@ -21,6 +21,13 @@ My research interests include but not limited to:
 * Manufacturing
 * Combustion Kinetics
 
+# My Life
+<div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/life1.gif?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+ </div>
+
 Last Update Date: 12/06/2018
 
 
