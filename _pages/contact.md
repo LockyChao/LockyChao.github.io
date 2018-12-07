@@ -9,7 +9,7 @@ Department of Mechanical Engineering, Shanghai Jiao Tong University
 800 Dongchuan Road, Shanghai, China 200240  
 Email: wbxu1997 [at] gmail.com  
 
-# Scene Snapshot
+# Scene Snapshots
 I occasionally take snapshots of beatiful scenes at SJTU.
 
  <div>
