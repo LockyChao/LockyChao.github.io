@@ -53,7 +53,7 @@ author_profile: true
 
 <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/kexie.JPG?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 400px;"/> 
+  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/kexie.JPG?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 500px;"/> 
 </p>
  <!-- <p  align="center">Fig.2 Scene-motion Perception Framework</p>-->
  </div>
