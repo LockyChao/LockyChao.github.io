@@ -10,7 +10,7 @@ Department of Mechanical Engineering, Shanghai Jiao Tong University
 Email: wbxu1997 [at] gmail.com  
 
 # Scene Snapshots
-I occasionally take snapshots of beatiful scenes at SJTU.
+I occasionally take snapshots of beautiful scenes at SJTU.
 
  <div>
   <p align="center">
