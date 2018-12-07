@@ -41,7 +41,7 @@ author_profile: true
 * Outstanding Student in School of Mechanical Engineering (**Top 10%**, ***Twice***), 2016, 2017
 
 # Leadership
-* **Chairman** of A+ Club (Consists of Top 1% of 1200 Students), 2017.3 – 2018.5
+* **Chairman** of *A+ Club* (Consists of Top 1% of 1200 Students), 2017.3 – 2018.5
 * **Minister** of *Student Association of Science & Technology*, 2016.6 – 2017.11
 
 <div>
