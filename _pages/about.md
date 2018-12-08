@@ -16,11 +16,12 @@ I want to further my study and purse a Ph.D. of Mechanical Engineering, Aerospac
 
 # Research Interests
 My research interests include but not limited to:
+* Combustion Reaction Kinetics
 * Clean Energy Conversions
 * Synthesis and Characterization of Functional Materials, Especially Energy Materials
 * Process Modeling, Simulation and Control 
 * Manufacturing
-* Combustion Kinetics
+
 
 # My Life
 <div>
