@@ -16,14 +16,9 @@ I want to further my study and purse a Ph.D. of Mechanical Engineering, Aerospac
 
 # Research Interests
 My research interests include but not limited to:
-* Combustion Reaction Kinetics
-* Alternative Fuels (Biofuels, Refuse-derived Fuels, etc.)
-* Formation Kinetics of Pollutants in Combustion (Soot, NOx, etc.) and Reduction
-* Laminar and Turbulent Reacting Flows
-* Clean Energy Conversions
-* Photo- and Electro- Catalysis
-* Synthesis and Characterization of Multifunctional Materials
-* Novel Synthesis Methods for Nano Carbon Materials
+* **Combustion:** Chemical Kinetics, Alternative Fuels (Biofuels, Refuse-derived Fuels, etc.), Formation Kinetics of Pollutant in Combustion (Soot, NOx, etc.) and Reduction, Laminar and Turbulent Reacting Flows
+* **Clean Energy Conversions:** Photo- and Electro- Catalysis, Adsorption and Conversion of Greenhouse Gases, Thermoelectrics
+* **Multifunctional Materials:** Synthesis and Characterization of Functional Materials, Energetic Materials, Novel Synthesis Methods for Nano Carbon Materials
 
 # My Life
 <div>
