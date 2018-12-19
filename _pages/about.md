@@ -14,7 +14,7 @@ The man I worship most is Leonardo Da Vinci. He was not only curious about every
 
 I want to further my study and pursue a Ph.D. of Mechanical Engineering, Aerospace Engineering, or in other relevant departments. Click here to see my [**up-to-date CV**](https://Wenbin-Xu.github.io/files/cv_wenbinXU.pdf). If you are interested in working with me or knowing more about me, please feel free to [contact me](https://wenbin-xu.github.io/contact/).
 
-[**Curriculum vitae**](https://Wenbin-Xu.github.io/files/cv_wenbinXU.pdf)
+[**Curriculum Vitae**](https://Wenbin-Xu.github.io/files/cv_wenbinXU.pdf)
 
 # Research Interests
 My research interests include but not limited to:
