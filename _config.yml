@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Chaowei Wu"
-  avatar           : "image/bio-photo.jpg"
+  avatar           : "bio-photo.jpg"
   bio              : "B.S. in Engineering, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
