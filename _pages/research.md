@@ -143,7 +143,6 @@ This project sought to transform genetically engineered *Escherichia Coli* into 
   <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/igem_8.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 700px;"/> 
 </p>
   <p  align="center">Fig.3 Diagram of developed mobile APP</p>
+  </div>
 
-More details can be viewed in [Prof. Wiki](http://2017.igem.org/Team:SJTU-BioX-Shanghai).
-wah the fuck.
-what the shu=ljaglagj
+More details can be viewed in [Team Wiki](http://2017.igem.org/Team:SJTU-BioX-Shanghai).

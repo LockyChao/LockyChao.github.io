@@ -4,7 +4,6 @@ title: "Skills"
 permalink: /skills/
 author_profile: true
 ---
-## Skills
 ### Computer Languages
 Python  (TensorFlow, VTK, OpenCV), C++, Matlab, HTML, LaTeX
 ### OS

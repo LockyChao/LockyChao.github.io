@@ -5,34 +5,117 @@ permalink: /album/
 author_profile: true
 ---
 
-Department of Mechanical Engineering, Shanghai Jiao Tong University  
-800 Dongchuan Road, Shanghai, China 200240  
-Email: wbxu1997 [at] gmail.com  
+Below are some of important moments of my undergraduate years.
 
-# Scene Snapshots
-I occasionally take snapshots of beautiful scenes at SJTU.
+### 2016
 
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/morning_rooftop.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/lab_1.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
 </p>
-  <!--<p  align="center">Fig.1 Setup of the Life-sized Humanoid. Real Robot (left) and 3D Model (Right)</p>-->
+ <p  align="center"> Joined Prof. Li's lab and meet many nice people</p>
+
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/wushu_2.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+ <p  align="center"> Got 2nd prize in Shanghai University Sports League</p>
  </div>
+
+### 2017
 
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/evening_lawn.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/choir_3.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
 </p>
-  <!--<p  align="center">Fig.1 Setup of the Life-sized Humanoid. Real Robot (left) and 3D Model (Right)</p>-->
- </div>
-
- <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Wenbin-Xu/Wenbin-Xu.github.io/master/images/evening_lake.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/choir_4.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
 </p>
-  <!--<p  align="center">Fig.1 Setup of the Life-sized Humanoid. Real Robot (left) and 3D Model (Right)</p>-->
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/choir_5.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+<p align="center">Became core member of student choir and got 1st prize in 5th National University art performance competition.</p>
+ </div>
+  <div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/igem_2.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/igem_3.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/igem_4.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/igem_5.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/igem_6.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+<p align="center">Attended 2017 iGEM, presentation rehearsal, oral presented, got gold metal and visit Harvard</p>
  </div>
 
-# Visitors
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=nseavQHNri_OdvUliAiYdODGOCLGv2lP-lYmivquSuo&cl=ffffff&w=a"></script>
+### 2018
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/course_1.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+<p align="center">Visited School of Medicine in Anatomy class, saw and touch Cadaveric specimen, deeply thought about life and career </p>
+<div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/summer_1.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/summer_5.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/summer_4.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/summer_6.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/summer_7.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/summer_3.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+<p align="center">Summer Intern in Prof. Zhi-Pei Liang's Lab, University of Illinois at Urbana Champaign, worked hard, thought carefully, had fun, visited Chicago and group meeting</p>
+ </div>
+ <div>
+   <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/symposium_2.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+   <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/symposium_3.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+   <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/symposium_1.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+   <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/symposium_4.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+   <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/symposium_5.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+   <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/symposium_6.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+   <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/symposium_7.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 600px;"/> 
+</p>
+<p align="center">Attended Symposium on Functional and Molecular Imaging, met Dr. Daubechies (Who created Daubechies Wavelet), Listened Dr. Samuel Chao Chung Ting (1976 Nobel Prize in Physics Winner) and General Yang (First Chinese astronaut)'s talk, Listened Many world-renowned imaging science researcher's talks and tried to got in touch with them</p>
+</div>
 
+
+<html>
+<body>
+<script>
+function disp_prompt()
+{
+	var name=prompt("请输入您的名字","xxx"); // 弹出input框
+	alert(name);
+}
+</script>
+ 
+<input type="button" onclick="disp_prompt()" value="test" />
+</body>
+</html>
