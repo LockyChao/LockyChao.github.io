@@ -125,25 +125,27 @@ function get_user_tall() {
 </body>
 </html>
 
-<html>
-    <head>
-        <meta charset="{CHARSET}">
-        <title>简易留言板</title>
-    </head>
-    <body>
-        留言区域：<textarea id="content" type="text"></textarea><br />
-        显示留言区域：<div id="display_area"></div>
-        <input value="提交" type="button" id="btn" />
-    </body>
-    <script>
-    window.onload=function(){
-        var display_area = document.getElementById("display_area");
-        var btn = document.getElementById("btn");
-        btn.onclick = function(){
-            var content_val = document.getElementById("content").value;
-            display_area.append(content_val);
-        };
-    }
-    </script>
-</html>
+<br>
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = lockychao.com;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = album; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://personal-web.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
 
