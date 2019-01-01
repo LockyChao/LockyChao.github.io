@@ -146,3 +146,46 @@ This project sought to transform genetically engineered *Escherichia Coli* into 
   </div>
 
 More details can be viewed in [Team Wiki](http://2017.igem.org/Team:SJTU-BioX-Shanghai).
+
+# Course Projects
+## Evaluation of the Effect of Blood Vessel Position and RF Power in Tumor Ablation Simulation
+### Course: Bio Heat Transfer
+**Keywords: Finite Element Modelling (FEM), Bioheat**
+* Established a RF tumor ablation model on finite element model software COMSOL Multiphysics
+* Explored the effect of blood vessel position and RF power in temperature distribution and
+  necrosis tissue fraction distribution
+* Led a course group, organizing weekly group discussion and got the** highest** score of the class in [project report](https://LockyChao.github.io/files/Bioheat_Report.pdf)
+
+<div>
+  <p align="center">
+<a><img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/bioheat_1.png?raw=true" alt="Picture" style="width:auto;max-width:50%" /></a> 
+<a><img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/bioheat_2.png?raw=true" alt="Picture" style="width:auto;max-width:50%" /></a> </p>
+<p align="center">
+Fig.1&2 General geometry and electrode geometry of the model
+</p>
+</div>
+
+<div>
+  <p align="center">
+<a><img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/bioheat_1.png?raw=true" alt="Picture" style="width:auto;max-width:50%" /></a> 
+<a><img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/bioheat_2.png?raw=true" alt="Picture" style="width:auto;max-width:50%" /></a> </p>
+<p align="center">
+Fig.3 Temperature distribution of x-z plane at 0, 1, 2, 5, 10, 20 min. (blood vessel is right of electrode). Fig.4 Necrosis tissue fraction, respectively.
+</p>
+</div>
+
+<div>
+  <p align="center">
+<a><img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/bioheat_1.png?raw=true" alt="Picture" style="width:auto;max-width:50%" /></a> 
+<a><img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/bioheat_2.png?raw=true" alt="Picture" style="width:auto;max-width:50%" /></a> </p>
+<p align="center">
+Fig.5 Temperature of one electrode arm tip. Fig.6 Temperature contour in 1, 2, 5, 10 min.
+</p>
+</div>
+
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/bioheat_7.gif?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 700px;"/> 
+</p>
+  <p  align="center">
+Fig.7 <a href="https://LockyChao.github.io/files/men_in_water.pdf">Simulation of temperature of human in freezing water and cold air</a>(Note: your seeing is just surface temperature)
+</p>

@@ -24,8 +24,8 @@ author_profile: true
 
 
 * Online courses (learning currently): 
-1. Optimization, [Online course of Stanford University, Engineering: CVX101 - ARCHIVED Convex Optimization](https://lagunita.stanford.edu/login?next=/courses/Engineering/CVX101/Winter2014/courseware/7206c57866504e83821d00b5d3f)
-2. Detection and Estimation Theory,[Handout of Iowa State University EE 527: Detection and Estimation Theory](http://home.engineering.iastate.edu/~namrata/EE527_Spring08/#Handouts)
+1. Optimization, **[Online course of Stanford University, Engineering: CVX101 - ARCHIVED Convex Optimization](https://lagunita.stanford.edu/login?next=/courses/Engineering/CVX101/Winter2014/courseware/7206c57866504e83821d00b5d3f)**
+2. Detection and Estimation Theory,**[Handout of Iowa State University EE 527: Detection and Estimation Theory](http://home.engineering.iastate.edu/~namrata/EE527_Spring08/#Handouts)**
 
 
 * Summer Internship in UIUC, July 2018 - Sept 2018
