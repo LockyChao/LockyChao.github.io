@@ -66,7 +66,7 @@ Analyzed white matter microstructure alterations after upper-limb amputation giv
 More details will be added soonly. (Last update: 1/1/2019)
  <div>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/multi-dti_1.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 700px;"/> 
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/dti_1.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 700px;"/> 
 </p>
   <p  align="center">Fig.1 Transcallosal tracts connecting the unilateral area and the contralaterally homogenous area</p>
  </div>
