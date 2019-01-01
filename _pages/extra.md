@@ -36,7 +36,7 @@ School
 </p>
 <p align="center">Talk on Career Choice</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/leadership_2.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 700px;"/> 
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/leadership_2.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 700px;"/> 
 </p>
 <p align="center">Holding Quiz Competition </p>
 
