@@ -1,16 +1,20 @@
 # main links links
 main:
-  - title: "CV/Bio"
-    url: /cv/
-    
+
   - title: "Research"
     url: /research/
     
-  - title: "Publications"
-    url: /publications/
+  - title: "Skills"
+    url: /skills/
 
-  - title: "Honor & Awards"
+  - title: "Awards"
     url: /honor/
+
+  - title: "Education"
+    url: /education/
     
-  - title: "Contact"
-    url: /contact/
+  - title: "Extracurricular"
+    url: /extra/
+    
+  - title: "Album"
+    url: /album/
