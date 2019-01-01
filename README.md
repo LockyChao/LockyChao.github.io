@@ -1,1 +1,1 @@
-[Welcome to my homepage!](https://wenbin-xu.github.io/)
+[Welcome to my homepage!](https://lockychao.com/)
