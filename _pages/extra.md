@@ -15,7 +15,7 @@ author_profile: true
 - My favorite pieces are [Over the Rainbow](/files/02_over_the_rainbow.mp3) and [Fa Shu Xia](/files/15_花树下.mp3).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/choir_1.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 700px;"/> 
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/choir_1.jpg?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 700px;"/> 
 </p>
 
 <a><img src="/images/wushu_1.png" alt="Picture" style="width:auto;max-width:50%" /></a> **Martial Arts**
