@@ -144,4 +144,4 @@ This project sought to transform genetically engineered *Escherichia Coli* into 
 </p>
   <p  align="center">Fig.3 Diagram of developed mobile APP</p>
 
-More details can be viewed in [Team Wiki](http://2017.igem.org/Team:SJTU-BioX-Shanghai).
+More details can be viewed in [Prof. Wiki](http://2017.igem.org/Team:SJTU-BioX-Shanghai).
