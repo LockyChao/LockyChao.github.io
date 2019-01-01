@@ -141,7 +141,7 @@ function get_user_tall() {
 		repo: "LockyChao/LockyChao.github.io",
 		owner: "LockyChao",
 		admin: ['LockyChao'],
-		id: 'Comment',
+		id: 'window.location.pathname',
     
     });
     gitalk.render('gitalk-container');
