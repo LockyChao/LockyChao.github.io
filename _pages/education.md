@@ -5,13 +5,13 @@ permalink: /education/
 author_profile: true
 ---
 
-- Major in Biomedical Engineering, Shanghai Jiao Tong University, September 2015 - Current
+* Major in Biomedical Engineering, Shanghai Jiao Tong University, September 2015 - Current
 
   Core GPA: 3.61/4.0
 
   Junior year: GPA: 3.74/4.0
 
-- Selected Courses:
+* Selected Courses:
 
 |Courses|Grades|Courses|Grades|
 |:--:|:--:|:--:|:--:|
@@ -23,9 +23,9 @@ author_profile: true
 |Principle of Automatic Control|90|Data Acquisition and Signal Processing in Biomedical Applications|Ongoing|
 
 
-- Online courses (learning currently): 
-1. Optimization, **[Online course of Stanford University, Engineering: CVX101 - ARCHIVED Convex Optimization](https://lagunita.stanford.edu/login?next=/courses/Engineering/CVX101/Winter2014/courseware/7206c57866504e83821d00b5d3f)**
-2. Detection and Estimation Theory,**[Handout of Iowa State University EE 527: Detection and Estimation Theory](http://home.engineering.iastate.edu/~namrata/EE527_Spring08/#Handouts)**
+* Online courses (learning currently): 
+1. Optimization, [Online course of Stanford University, Engineering: CVX101 - ARCHIVED Convex Optimization](https://lagunita.stanford.edu/login?next=/courses/Engineering/CVX101/Winter2014/courseware/7206c57866504e83821d00b5d3f)
+2. Detection and Estimation Theory,[Handout of Iowa State University EE 527: Detection and Estimation Theory](http://home.engineering.iastate.edu/~namrata/EE527_Spring08/#Handouts)
 
 
-- Summer Internship in UIUC, July 2018 - Sept 2018
+* Summer Internship in UIUC, July 2018 - Sept 2018
