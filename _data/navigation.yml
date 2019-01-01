@@ -13,8 +13,8 @@ main:
   - title: "Education"
     url: /education/
     
-  - title: "Extra"
+  - title: "Extracurricular"
     url: /extra/
     
-  - title: "Contact"
-    url: /contact/
+  - title: "Album"
+    url: /album/
