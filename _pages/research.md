@@ -103,7 +103,18 @@ segment, etc. with VTK library.
   <p  align="center">Fig.4 Function: Data Measurement</p>
  </div>
 
+<div>
  <video controls="controls" src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/files/ct_3.mp4?raw=true" width="100%"></video>
+ <p  align="center">Video 1 3D Rendering</p>
+ </div>
+ <div>
+ <video controls="controls" src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/files/ct_2.mp4?raw=true" width="100%"></video>
+ <p  align="center">Video 2 Image Viewing and Choose Point</p>
+ </div>
+ <div>
+ <video controls="controls" src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/files/ct_3.mp4?raw=true" width="100%"></video>
+ <p  align="center">Video 3 Region Growth Segmentation</p>
+ </div>
 
 ## A universal multifactorial visualized detection system
 ### In SJTU, Advised by [Dr. Lin He](http://en.sjtu.edu.cn/academics/faculty/academicians/he-lin/) and [Dr. Gang Ma](http://www.bio-x.cn/en/DetailResearchInfo.php?v=0&l=3&pid=3&num=3&id=109&iid=131)
