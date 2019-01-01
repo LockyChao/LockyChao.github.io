@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<p align="left">
-  <img src="https://github.com/Wenbin-Xu/Wenbin-Xu.github.io/blob/master/images/signature.jpg?raw=true" alt="徐文彬" style="width: 150px;"/> 
-</p>
 {% include base_path %}
 Curriculum Vitae
 ======
