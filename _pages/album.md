@@ -106,24 +106,44 @@ Below are some of important moments of my undergraduate years.
 </div>
 
 
-<!doctype html>
+
 <html>
 <head>
 <meta charset="utf-8">
 <title>js的prompt函数演示</title>
 <script>
 function get_user_tall() {
-    var tall = prompt("请输入您的身高（厘米）","178");
+    var tall = prompt("Congradulations! You discovered the egg. I think you must be interested in me or you won't want to view more. May I know your name?","");
     if (tall != null){
-        alert("您的身高为" + tall +"厘米");
-    }else{
-        alert("你按了[取消]按钮");
+        alert("Thanks!");
     }
 }
 </script>
 </head>
 <body>
-<a href="javascript:get_user_tall()">点击链接获取身高</a><br>
-<input type="button" onClick="get_user_tall()" value="点击按钮获取身高">
+<input type="button" onClick="get_user_tall()" value="More...">
 </body>
 </html>
+
+<html>
+    <head>
+        <meta charset="{CHARSET}">
+        <title>简易留言板</title>
+    </head>
+    <body>
+        留言区域：<textarea id="content" type="text"></textarea><br />
+        显示留言区域：<div id="display_area"></div>
+        <input value="提交" type="button" id="btn" />
+    </body>
+    <script>
+    window.onload=function(){
+        var display_area = document.getElementById("display_area");
+        var btn = document.getElementById("btn");
+        btn.onclick = function(){
+            var content_val = document.getElementById("content").value;
+            display_area.append(content_val);
+        };
+    }
+    </script>
+</html>
+
