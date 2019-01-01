@@ -4,13 +4,13 @@ permalink: /research/
 author_profile: true
 ---
 # Publication
-* Multimodal Analysis of Structural and Functional MRI for Schizophrenia Diagnosis, Huixiang Zhuang, Yao Li, Ruihao Liu, **Chaowei Wu**, and Manhua Liu, Tenth International Conference on Digital Image Processing (ICDIP 2018), 2018, p. 6.
-* Multimodal Classification of Drug-naive First-episode Schizophrenia Patients Combining Structural and Functional Magnetic Resonance Imaging, Huixiang Zhuang, Ruihao Liu, **Chaowei Wu**, Ziyu Meng, Danni Wang, Dengtang Liu, Manhua Liu and Yao Li, Neuroscience Letters (under review)
-* Alternations of Brain Structural Connectivity after Unilateral Upper-limb Amputation, Xiaoli Guo, Ruihao Liu, Jincheng Lu, **Chaowei Wu**, Yuanyuan Lyu, Zhuo Wang, Jianbo Xiang, Changjie Pan and Shanbao Tong,  IEEE Transactions on Biomedical Engineering (TBME) (under review)
+* Multimodal Analysis of Structural and Functional MRI for Schizophrenia Diagnosis, Huixiang Zhuang, Yao Li, Ruihao Liu, **Chaowei Wu**, and Manhua Liu, Tenth International Conference on Digital Image Processing (ICDIP 2018), 2018, p. 6. [PDF](https://LockyChao.github.io/files/Paper.pdf)
+* Multimodal Classification of Drug-naive First-episode Schizophrenia Patients Combining Structural and Functional Magnetic Resonance Imaging, Huixiang Zhuang, Ruihao Liu, **Chaowei Wu**, Ziyu Meng, Danni Wang, Dengtang Liu, Manhua Liu and Yao Li, Neuroscience Letters (under review) [PDF](https://LockyChao.github.io/files/REV1.pdf)
+* Alternations of Brain Structural Connectivity after Unilateral Upper-limb Amputation, Xiaoli Guo, Ruihao Liu, Jincheng Lu, **Chaowei Wu**, Yuanyuan Lyu, Zhuo Wang, Jianbo Xiang, Changjie Pan and Shanbao Tong,  IEEE Transactions on Biomedical Engineering (TBME) (under review) [PDF](https://LockyChao.github.io/files/REV2.pdf)
 
 # Research Experience
 ## New Strategy for Super-resolution in Magnetic Resonance Imaging, Jan 2018 - Present
-### In UIUC and SJTU, Advised by Prof. Zhi-Pei Liang
+### In UIUC and SJTU, Advised by Prof. [Zhi-Pei Liang](https://ece.illinois.edu/directory/profile/z-liang)
 **Keywords: MRI Image Reconstruction, Machine Learning**
 
 The proposed super-resolution pipeline is series of strategies to tackle the ill-posed problem where high-frequency component is recovered. Convolution neural network, sparsity-based model and data consistency model is combined to achieve this process. Experiment verified proposed method was able to reconstruct MPRAGE image with 4 times down-sampled k space.
@@ -23,10 +23,10 @@ Presentation Slides (PDF) can be viewed [here](https://LockyChao.github.io/files
 Full Report can be viewed [here](https://LockyChao.github.io/files/Report_Summer_Project.pdf)
 
 ## Multi-modal Imaging Classification using Machine-learning Algorithm in Firstepisode Schizophrenia, Oct 2016 - July 2017
-### In SJTU, Advised by Prof. Yao Li
+### In SJTU, Advised by Prof. [Yao Li](http://bme.sjtu.edu.cn/En/Show?w=107&p=87&f=616)
 **Keywords: Multi-modal MRI, Machine Learning, Classification, Neuroscience**
 
-Established a method to distinguish the health and first-episode schizophrenia (SZ) patients given multi-modal MRI data (fMRI, DTI, T1). Proposed multimodal classification method had 81.2% accuracy with 92.5% sensitivity and 66.7% specificity for SZ diagnosis. This project received an A (Top rank of the program); the full manuscript has been published in Tenth International Conference on Digital Image Processing (ICDIP 2018).
+Established a method to distinguish the health and first-episode schizophrenia (SZ) patients given multi-modal MRI data (fMRI, DTI, T1). Proposed multimodal classification method had 81.2% accuracy with 92.5% sensitivity and 66.7% specificity for SZ diagnosis. This project received an A (Top rank of the program). The full manuscript has been published in Tenth International Conference on Digital Image Processing (ICDIP 2018). Another manuscript is under review now.
 * Exploited t-test analysis after data processing using FSL and other toolkits
 * Utilized Sparse Coding algorithms to screen out potential features among various biomarkers
 * Implemented Random Forest algorithms to estimate the potential relationship among selected features to reach an ideal group discriminating performance
@@ -54,3 +54,79 @@ Established a method to distinguish the health and first-episode schizophrenia (
 
 <p align="center">Table 3 Comparison of multi-modal classification accuracy among the methods</p>
 
+## Research of Brain Microstructure Alterations for Upper-limb Amputees, July 2017 - Present
+### In SJTU, Advised by [Prof. Xiaoli Guo](https://tnsre.embs.org/author/xiaoliguo/)
+**Keywords: MRI, Diffusion Tensor Imaging, Probabilistic Diffusion Tractography, Neuroscience**
+
+Analyzed white matter microstructure alterations after upper-limb amputation given DTI images. One paper in preparation; Plan to submit to journal shortly **(First Author)**
+* Found significant lower Fractional Anisotropy (FA) and other significant different indices in subregions of corpus callosum (CC) in patients with residual limb pain
+* Implemented Probabilistic Diffusion Tractography (PDT) and found similar changes in corresponding transcallosal tracts
+* Indicated interhemispheric pathways contributing to pain sensation; chronic pain were reorganized in upper limb amputees
+
+More details will be added soonly. (Last update: 1/1/2019)
+ <div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/multi-dti_1.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 700px;"/> 
+</p>
+  <p  align="center">Fig.1 Transcallosal tracts connecting the unilateral area and the contralaterally homogenous area</p>
+ </div>
+
+## The research and development of computer-aided orbital decompression surgery planning system
+### In SJTU, Advised by [Prof. Lixu Gu](http://bme.sjtu.edu.cn/En/Show?w=107&p=87&f=645)
+**Keywords: Computerized Tomography (CT), Image Processing, Software Development**
+
+Developed a software specialized for measurement of intra-orbital structures. It exactly meeted clinical needs and have been applied in clinical at the Shanghai Ninth People’s Hospital.
+* Realized a series functions including 3-D CT image reconstruction, coordinates correction,
+segment, etc. with VTK library.
+* Integrated into a completely independent software with a user-friendly GUI
+* Cooperated with an ophthalmologist to identify clinical needs; Effectiveness was verified with statistic analysis
+
+ <div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/multi-ct_1.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 700px;"/> 
+</p>
+  <p  align="center">Fig.1 Function: 3D Image Rendering and features</p>
+ </div>
+  <div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/multi-ct_2.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 700px;"/> 
+</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/multi-ct_3.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 700px;"/> 
+</p>
+  <p  align="center">Fig.2 & 3 Function: Coordinate Correction and its principle</p>
+ </div>
+<div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/multi-ct_4.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 700px;"/> 
+</p>
+  <p  align="center">Fig.4 Function: Data Measurement</p>
+ </div>
+ 
+ <video controls="controls" src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/files/multi-ct_3.mp4?raw=true" width="100%"></video>
+
+## A universal multifactorial visualized detection system
+### In SJTU, Advised by [Dr. Lin He](http://en.sjtu.edu.cn/academics/faculty/academicians/he-lin/) and [Dr. Gang Ma](http://www.bio-x.cn/en/DetailResearchInfo.php?v=0&l=3&pid=3&num=3&id=109&iid=131)
+**Keywords: Synthetic biology, Biological Modelling, Genetic Engineering, iGEM Gold Metal**
+
+This project sought to transform genetically engineered *Escherichia Coli* into a visualized monitor, which could detect multiple metal ions, display the concentration as a combination of colors, and achieve quantitative measurement. While serving as **the vice leader of a research team on behalf of SJTU** (14 undergraduates majoring in Bioengineering, Bioinformatics, Biomedical Engineering and Material Science), I was in charge of the modeling work to explore the relationship between our aimed detection substances and chromoproteins. I **orally presented** our work to professional judges from all over the world and earned a **Gold Medal in the International Genetically Engineered Machine (iGEM) Competition** (top-level international competition in synthetic biology).
+* Detected multiple metal ions at the same time, displaying the concentration as a combination of colors
+* Achieved quantitative measurement by building models and developing mobile APP
+
+ <div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/multi-igem_1.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 700px;"/> 
+</p>
+  <p  align="center">Fig.1 Logo of our team</p>
+
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/multi-igem_7.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 700px;"/> 
+</p>
+  <p  align="center">Fig.2 Signal Pathway:Inducers enters the cell, activates receptor and binding with repressor protein, leading to antisense producing. Then antisense binds with STAR. Finally sfGFP expression starts.</p>
+
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LockyChao/lockychao.github.io/master/images/multi-igem_8.png?raw=true" alt="Sorry, the file was not found (,#ﾟДﾟ)  " style="width: 700px;"/> 
+</p>
+  <p  align="center">Fig.3 Diagram of developed mobile APP</p>
+
+More details can be viewed [here](http://2017.igem.org/Team:SJTU-BioX-Shanghai).
