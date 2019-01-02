@@ -17,13 +17,13 @@ I want to further my study and pursue a Ph.D. of Medical Imaging in Biomedical E
 [**Curriculum Vitae**](https://LockyChao.github.io/files/CV6.pdf)
 
 # Research Interests
-My research interest lies in Biomedical Imaging, especially MRI. More specifically, it include but not limited to:
+My research interest lies in Biomedical Imaging, especially MRI. More specifically, it includes but not limited to:
 * **State-of-art Imaging Techniques:** Pulse Sequence Design, Application to Clinical Imaging Application (Artery MRI, 4D Flow MRI,  and Cardiovascular Imaging), Parallel Imaging, Chemical Exchange Saturation Transfer (CEST), etc..
 * **Machine Learning Application to Medical Imaging:** Super-resolution Image Reconstruction, Pattern Recognition, Low-rank Representation, Image Denoising, Motion Correction, etc..
 * **Biomarker Study for Clinical Diagnosis:** Analysis of Brain Dysfunction with Multi-modal (or Single Modality) Image, Analysis of Brain Activity with fMRI, Analysis of Brain Microstructure Alteration with Structual Data, etc..
 
 # Self-evaluation, Pros and Cons
-I am a self-motivated person. I have broad interest in many aspects of MRI. I stick to one thing when I think I really like it, but also try  my best in everything I'm supposed  to do. I am a fast learner, and really enjoy the feeling "always on the way to be stronger". However, I realize my easy feeling of "I have already understood it" is sometimes false. I feel kind of awkward when I could not answer questions to newly studied knowledges. To ameliorate the situation, I try to think more than once before talking, and make it out immediately after questions. Hopefully I will overcome this bad habit. 
+I am self-motivated. I have broad interest in many aspects of MRI. I stick to one thing when I think I really like it, but also try  my best in everything I'm supposed  to do. I am a fast learner, and really enjoy the feeling "always on the way to be stronger". However, I realize my easy feeling of "I have already understood it" is sometimes false. I feel kind of awkward when I could not answer questions to newly studied knowledges. To ameliorate the situation, I try to think more than once before talking, and make it out immediately after questions. Hopefully I will overcome this bad habit. 
 
 Last Update Date: 1/1/2019
 
