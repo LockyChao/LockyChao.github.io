@@ -114,6 +114,7 @@ Below are some of important moments of my undergraduate years.
 <title>HTML元素的显示与隐藏控制</title>
 <script type="text/javascript">
 function showAndHidden1(){
+  alert("Congradulations! You found the egg. I think you must be interested in me or you won't be patient and interested in viewing more. May I know you name?");
   var div1=document.getElementById("div1");
   if(div1.style.display=='block') div1.style.display='none';
   else div1.style.display='block';
