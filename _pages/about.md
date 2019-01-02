@@ -12,7 +12,7 @@ I am a senior undergraduate student at Shanghai Jiao Tong University, expected t
 <!--
 The man I worship most is Leonardo Da Vinci. He was not only curious about everything, but also made a great research accomplishment with his unparalleled creativity. Even today, many scholars are still influenced by his ideas. However, life is always brutal. Most people's life ends up only becoming another ordinary moment in the history of science, but I still wish I could always stay true to my determination, and hopefully, create something amazing and become another Da Vinci! :)-->
 
-I want to further my study and pursue a Ph.D. of Medical Imaging in Biomedical Engineering, Electrical Engineering and Computer Science, Medical Physics or in other relevant departments. Click here to see my [up-to-date CV](https://LockyChao.github.io/files/CV6.pdf). If you are interested in working with me or knowing more about me, please feel free to [contact me](https://LockyChao.github.io/contact/).
+I want to further my study and pursue a Ph.D. of Medical Imaging in Biomedical Engineering, Electrical Engineering and Computer Science, Medical Physics or in other relevant departments. Click here to see my [up-to-date CV](https://LockyChao.github.io/files/CV6.pdf). If you are interested in working with me or knowing more about me, please feel free to [contact me](locky.chao@gmail.com).
 
 [**Curriculum Vitae**](https://LockyChao.github.io/files/CV6.pdf)
 
