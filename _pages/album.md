@@ -115,15 +115,13 @@ Below are some of important moments of my undergraduate years.
 <script type="text/javascript">
 function showAndHidden1(){
   var div1=document.getElementById("div1");
-  if(div1.style.display=='block') div1.style.display='none';
-  else div1.style.display='block';
+  if(div1.style.display=='block') div1.style.display='block';
+  else div1.style.display='none';
 }
 </script>
 </head>
 <body>
-<div>display：元素的位置不被占用</div>
 <div id="div1" style="display:block;">
-<button type="button" id="test" >More...</button>
 <form action="https://getsimpleform.com/messages?form_api_token=1ce6453c9012daba64def8316372a816" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <!-- all your input fields here.... -->
