@@ -106,46 +106,12 @@ Below are some of important moments of my undergraduate years.
 </div>
 
 
-
-<html>
-<head>
-<meta charset="utf-8">
-<title>js的prompt函数演示</title>
-<script>
-function get_user_tall() {
-    var tall = prompt("Congradulations! You discovered the egg. I think you must be interested in me or you won't want to view more. May I know your name?","");
-    if (tall != null){
-        alert("Thanks!");
-    }
-}
-</script>
-</head>
-<body>
-<input type="button" onClick="get_user_tall()" value="More...">
-</body>
-</html>
-
-<br>
-
-<!-- Gitalk 评论 start  -->
-
-<!-- Link Gitalk 的支持文件  -->
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
-<div id="gitalk-container"></div>     <script type="text/javascript">
-    var gitalk = new Gitalk({
-
-    // gitalk的主要参数
-		clientID: `4b1f915116b6ea5316b6`,
-		clientSecret: `3930a28cd430d0e5810c482324af6882dbd6bac5`,
-		repo: "LockyChao/LockyChao.github.io",
-		owner: "LockyChao",
-		admin: ['LockyChao'],
-		id: 'window.location.pathname',
-    
-    });
-    gitalk.render('gitalk-container');
-</script> 
-<!-- Gitalk end -->
-                            
-
+```
+<form action="https://getsimpleform.com/messages?form_api_token=1ce6453c9012daba64def8316372a816" method="post">
+  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
+  <!-- all your input fields here.... -->
+  <input type='text' name='test' />
+  <input type='submit' value='Test form' />
+</form>
+```
