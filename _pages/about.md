@@ -29,11 +29,12 @@ Last Update Date: 1/1/2019
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=s8MUPDRHUYW1pQ1hpn4EVNctcr7NAsdSFOsvMLiVxik&cl=ffffff&w=a"></script>
 
-<!-- Global Site Tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127496177-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'GA_TRACKING_ID');
+
+  gtag('config', 'UA-127496177-2');
 </script>
