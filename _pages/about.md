@@ -28,3 +28,12 @@ I am self-motivated. I have broad interest in many aspects of MRI. I stick to on
 Last Update Date: 1/1/2019
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=s8MUPDRHUYW1pQ1hpn4EVNctcr7NAsdSFOsvMLiVxik&cl=ffffff&w=a"></script>
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'GA_TRACKING_ID');
+</script>
